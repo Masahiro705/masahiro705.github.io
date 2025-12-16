@@ -28,15 +28,13 @@ url: "https://masahiro705.github.io"
 github:
   username: masahiro705
 
-twitter:
-  username: twitter_username # change to your Twitter username
-
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Masahiro Watanabe
   email:
-  links: https://masahiro705.github.io
+  links:
+    - https://masahiro705.github.io
 
 # Site Verification Settings
 webmaster_verifications:
